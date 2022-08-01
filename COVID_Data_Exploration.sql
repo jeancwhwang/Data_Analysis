@@ -128,6 +128,3 @@ ON d.location = v.location
 AND d.date = v.date
 WHERE d.continent IS NOT NULL
 ;
-
-*.sql linguist-detectable=true
-*.sql linguist-language=sql
