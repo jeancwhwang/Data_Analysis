@@ -1,3 +1,5 @@
+/* Learning Objective: explore COVID data in SQL. */
+
 /*Shows likelihood of dying if you get covid in the US*/
 
 SELECT
